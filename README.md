@@ -18,7 +18,7 @@
        - npm run report
        
 ## Pre-conditin
-    - Node.js must be installed
+   - Node.js must be installed
 
 ## Technology used
   - Postman
