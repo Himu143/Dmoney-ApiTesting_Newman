@@ -17,14 +17,14 @@
        - npm i
        - npm run report
        
-## Pre-conditin
+## Pre-condition
    - Node.js must be installed
 
 ## Technology used
   - Postman
   - Newman
   
-## Project Documantation
+## Project Documentation
   - https://documenter.getpostman.com/view/19869486/2s8ZDbXM3b
   
 ## Test Cases
